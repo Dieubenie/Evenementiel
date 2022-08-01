@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -23,4 +24,4 @@ Route::get('/dashboard', function () {
 
 require __DIR__.'/auth.php';
 
-Route::get('auth.login', 'AuthenticatedSessionController@create')->name('login');
+// Route::get('auth.login', 'AuthenticatedSessionController@create')->name('login');

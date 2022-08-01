@@ -25,7 +25,44 @@
     </section><!-- End Clients Section -->
 
     <!-- ======= About Section ======= -->
+    <div class="container">
+      <h3>Quelle est la valeur ajoutée de notre agence?</h3>
+    <p>
+      Vous vous demandez quelle est la valeur d’une agence événementielle ? 
+      C’est tout à fait normal. Tout d’abord, un organisateur d’événements vous permet de gagner du
+       temps notamment grâce à un interlocuteur unique qui s’occupe de tout pour que votre événement 
+       soit 100% réussi. Cela vous offrira aussi une meilleure résistance au stress puisque la 
+       logistique événementielle sera sous-traitée. Ensuite, une entreprise comme notre agence vous
+        permet de sécuriser votre événement avec notamment la partie demande d’autorisations ou normes.
+         De plus, votre partenaire événementiel vous permet de monter en gamme avec une scénographie 
+         optimisée et plus de créativité avec des brainstormings. Enfin, vous économiserez de l’argent
+          puisque nous avons une antériorité qui nous permet de s’entourer de prestataire technique de 
+          qualité à moindre coût. Votre marketing événementiel sera maîtrisé et ceci bien plus loin que
+           le cadre de l’évènement. 
+      Vous ne pourrez que marquer les esprits et donner du sens aux événements avec votre organisateur.
+    </p>
+    <h3>Quelle sont les qualités de notre agence évenementielle?</h3>
+    <p>
+      Les qualités d’une agence événementielle dépendent évidemment de vos objectifs. Le professionnalisme
+       si vous souhaitez démontrer l’aspect corporate de votre entreprise. La créativité si vous souhaitez
+        marquer les esprits. Le relationnel si vous souhaitez avoir un partenaire événementiel à long terme.
+         Mais un bon chef de projet et une bonne agence événementielle c’est un peu un mouton à cinq pattes.
+          Le bon organisateur d’événements sera celui qui cochera toutes les cases. De plus, celui-ci aura 
+          une connaissance globale de l’ensemble des métiers de la communication. Attention, on ne parle pas 
+          forcément d’avoir un Bachelor communication ou même un mastère : l’expérience terrain est souvent ce
+           qui fait la force d’une agence d’événementiel. Votre chargé de projet doit aussi savoir être un bon
+            régisseur. Evidemment, la réactivité est souvent la clé de la collaboration avec une agence 
+            d’organisation. Enfin, la spécialisation de votre partenaire événementiel peut aussi vous aider à 
+            faire le bon choix. Vous recherchez une entreprise à taille humaine ? spécialisée ? dont 
+            l’ingénierie événementielle n’est plus à démontrer ? 
+      INNOV’events saura vous accompagner dans vos projets événementiels.
+    </p>
+
+    </div>
+    
+   
     <section id="about" class="about section-bg">
+   
       <div class="container" data-aos="fade-up">
 
         <div class="row no-gutters">
@@ -308,17 +345,17 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Galéries</h2>
+          <p> Avec notre agence évènementielle, le rêve est permis</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Tout</li>
+              <li data-filter=".filter-app">Fêtes</li>
+              <li data-filter=".filter-card">Réalisations</li>
+              <li data-filter=".filter-web">Design</li>
             </ul>
           </div>
         </div>
@@ -327,12 +364,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/m.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Fête 1</h4>
+                <p>Fête</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/m.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -341,12 +378,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/l.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Design 3</h4>
+                <p>Design</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/l.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -355,12 +392,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/j.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Design 2</h4>
+                <p>Design</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/j.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -369,12 +406,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/n.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Réalisation 2</h4>
+                <p>Réalisation </p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/n.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -383,12 +420,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Design 2</h4>
+                <p>Design</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/s.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -397,12 +434,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/i.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Fête 3</h4>
+                <p>Fête</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/i.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -413,8 +450,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Réalisation  1</h4>
+                <p>Réalisation </p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -427,8 +464,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Réalisation  3</h4>
+                <p>Réalisation </p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -441,8 +478,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Design 3</h4>
+                <p>Design</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -460,7 +497,7 @@
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
-          <h2>Testimonials</h2>
+          <h2>Témoignages</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
         </div>
 
@@ -690,8 +727,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Equipe</h2>
+          <p>Notre équipe est constitué de personnes talentueuses et sociables</p>
         </div>
 
         <div class="row">
@@ -717,7 +754,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/beni.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -726,8 +763,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Dieubéni KODJIM</h4>
+                <span>Gestionnaire</span>
               </div>
             </div>
           </div>
@@ -779,7 +816,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>Veuillez nous contacter:</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -790,22 +827,22 @@
               <div class="col-md-12">
                 <div class="info-box">
                   <i class="bx bx-map"></i>
-                  <h3>Our Address</h3>
+                  <h3>Notre Addresse</h3>
                   <p>A108 Adam Street, New York, NY 535022</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
-                  <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <h3>Envoyez-nous un email</h3>
+                  <p>event@gmail.com<br>contact@example.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
-                  <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <h3>Appelez-nous</h3>
+                  <p>+226 76 89 45 45<br>+226 70 14 20 20</p>
                 </div>
               </div>
             </div>
@@ -816,14 +853,14 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" required>
                 </div>
                 <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre Email" required>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" required>
               </div>
               <div class="form-group">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
