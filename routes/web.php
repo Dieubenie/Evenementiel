@@ -25,3 +25,6 @@ Route::get('/dashboard', function () {
 require __DIR__.'/auth.php';
 
 // Route::get('auth.login', 'AuthenticatedSessionController@create')->name('login');
+Route::get('/administrateur', function () {
+    return view('administrateur');
+});

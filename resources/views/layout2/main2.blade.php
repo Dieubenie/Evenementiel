@@ -8,7 +8,7 @@
     @include('require2.style')
 </head>
 <body>
-    @include('require.header') 
+    @include('require2.header2') 
     
     @yield('containt')
 
